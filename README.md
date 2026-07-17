@@ -1,110 +1,67 @@
-<h1 align="center">Hi 👋 I'm Fatemeh Moradian</h1>
+# Hi 👋 I'm Fatemeh Moradian
 
-<p align="center">
-  <strong>AI Engineer • Computer Vision • LLM Applications • Data Engineering</strong>
-</p>
+**AI Engineer • Computer Vision • LLM Applications • Data Engineering**
 
----
+I build end-to-end AI systems—from data collection and preprocessing to model development, deployment, and automation.
 
-## 👩‍💻 About Me
-
-I'm an AI Engineer with a strong interest in building end-to-end intelligent systems that combine machine learning, computer vision, and data engineering to solve real-world problems.
-
-My experience spans the complete AI lifecycle, including data collection, preprocessing, model development, evaluation, deployment, and automation. I enjoy designing practical AI solutions that transform raw data into actionable insights.
-
-Currently, I'm expanding my expertise in Docker, CI/CD, PHP, and WordPress while continuing to build AI-powered applications.
+Currently building AI-powered applications, computer vision pipelines, and RAG systems while expanding my expertise in Docker, CI/CD, PHP, and WordPress.
 
 ---
 
-## 🚀 Areas of Interest
+## 🚀 Focus Areas
 
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🧠 Deep Learning
-- 💬 Large Language Models (LLMs)
-- 📄 Retrieval-Augmented Generation (RAG)
-- 📊 Data Engineering & ETL
-- ✈️ Aviation Data Processing
-- ⚙️ MLOps & AI Automation
+- Artificial Intelligence
+- Computer Vision
+- Deep Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Data Engineering & ETL
+- MLOps & AI Automation
+- Aviation Data Processing
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,php,mysql" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### AI & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-**Also working with**
-
-- YOLOv8
-- Hugging Face Transformers
-- LangChain
-- LangGraph
-- Scikit-learn
-- NumPy
-- Pandas
-
----
+PyTorch • TensorFlow • OpenCV • YOLOv8 • Hugging Face • LangChain • LangGraph • Scikit-learn
 
 ### Data Engineering
 
-- ETL Pipelines
-- Web Scraping
-- BeautifulSoup
-- Data Processing
-- Data Validation
-- REST APIs
+ETL Pipelines • Web Scraping • REST APIs • Pandas • NumPy • Data Validation
 
----
+### DevOps
 
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
-
-- GitHub Actions (CI/CD)
-- Containerized AI Applications
+Docker • GitHub Actions • CI/CD • Linux
 
 ---
 
 ## 🌱 Currently Learning
 
-- Docker & Production Deployment
-- CI/CD Best Practices
-- PHP
+- Production AI Deployment
+- Advanced CI/CD Workflows
+- PHP Development
 - WordPress Development
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fm5o1&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fm5o1&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:moradianf.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-moradianf.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+- LinkedIn: www.linkedin.com/in/fatemeh-moradian-923baa17a
+- Email: <a href="mailto:moradianf.dev@gmail.com">moradianf.dev@gmail.com</a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fatemeh%20Moradian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+---
+
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-moradianf.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradianf.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatemeh%20Moradian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/...)
 
 ---

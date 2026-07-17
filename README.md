@@ -2,7 +2,7 @@
 
 **AI Engineer • Computer Vision • LLM Applications • Data Engineering**
 
-I build end-to-end AI systems—from data collection and preprocessing to model development, deployment, and automation.
+I build end-to-end AI systems, from data collection and preprocessing to model development, deployment, and automation.
 
 Currently building AI-powered applications, computer vision pipelines, and RAG systems while expanding my expertise in Docker, CI/CD, PHP, and WordPress.
 
@@ -31,11 +31,11 @@ Currently building AI-powered applications, computer vision pipelines, and RAG s
 
 ### AI & Machine Learning
 
-PyTorch • TensorFlow • OpenCV • YOLOv8 • Hugging Face • LangChain • LangGraph • Scikit-learn
+PyTorch • TensorFlow • OpenCV • YOLOv8 • Hugging Face • LangChain • LangGraph • Scikit-learn • NumPy • Pandas
 
 ### Data Engineering
 
-ETL Pipelines • Web Scraping • REST APIs • Pandas • NumPy • Data Validation
+ETL Pipelines • Web Scraping • BeautifulSoup • REST APIs • Data Validation
 
 ### DevOps
 
@@ -55,6 +55,5 @@ Docker • GitHub Actions • CI/CD • Linux
 ## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-moradianf.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradianf.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatemeh%20Moradian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/...)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatemeh%20Moradian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-moradian-923baa17a)
 ---

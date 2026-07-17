@@ -1,8 +1,7 @@
-```markdown
 <h1 align="center">Hi 👋 I'm Fatemeh Moradian</h1>
 
 <p align="center">
-AI Engineer • Computer Vision • LLM Applications • Data Engineering
+  <strong>AI Engineer • Computer Vision • LLM Applications • Data Engineering</strong>
 </p>
 
 ---
@@ -13,7 +12,7 @@ I'm an AI Engineer with a strong interest in building end-to-end intelligent sys
 
 My experience spans the complete AI lifecycle, including data collection, preprocessing, model development, evaluation, deployment, and automation. I enjoy designing practical AI solutions that transform raw data into actionable insights.
 
-Currently, I'm expanding my expertise in Docker, CI/CD, PHP, and WordPress while continuing to work on AI-powered applications.
+Currently, I'm expanding my expertise in Docker, CI/CD, PHP, and WordPress while continuing to build AI-powered applications.
 
 ---
 
@@ -35,13 +34,13 @@ Currently, I'm expanding my expertise in Docker, CI/CD, PHP, and WordPress while
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,php,mysql" />
 </p>
 
 ### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 **Also working with**
@@ -70,7 +69,7 @@ Currently, I'm expanding my expertise in Docker, CI/CD, PHP, and WordPress while
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 - GitHub Actions (CI/CD)
@@ -90,20 +89,26 @@ Currently, I'm expanding my expertise in Docker, CI/CD, PHP, and WordPress while
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fm5o1&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fm5o1&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
+<p>
+  <a href="https://www.linkedin.com/in/fatemeh-moradian">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:moradianf.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-Always learning. Always building.
+  <i>Always learning. Always building.</i> 🚀
 </p>
-```

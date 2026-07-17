@@ -1,6 +1,6 @@
 # Hi 👋 I'm Fatemeh Moradian
 
-**AI Engineer • Computer Vision • LLM Applications • Data Engineering**
+****AI Engineer • Computer Vision • LLMs • Data Engineering****
 
 I build end-to-end AI systems, from data collection and preprocessing to model development, deployment, and automation.
 
@@ -56,4 +56,3 @@ Docker • GitHub Actions • CI/CD • Linux
 
 [![Gmail](https://img.shields.io/badge/Gmail-moradianf.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradianf.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatemeh%20Moradian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-moradian-923baa17a)
----

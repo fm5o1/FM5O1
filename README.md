@@ -54,4 +54,4 @@ Docker • GitHub Actions • CI/CD • Linux
 ## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-moradianf.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradianf.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatemeh%20Moradian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-moradian-10803a23a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatemeh%20Moradian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-moradian)

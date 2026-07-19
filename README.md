@@ -13,6 +13,7 @@ Currently building AI-powered applications, computer vision pipelines, and RAG s
 - Artificial Intelligence
 - Computer Vision
 - Deep Learning
+- Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Data Engineering & ETL
@@ -30,7 +31,7 @@ Currently building AI-powered applications, computer vision pipelines, and RAG s
 
 ### AI & Machine Learning
 
-PyTorch • TensorFlow • OpenCV • YOLOv8 • Hugging Face • LangChain • LangGraph • Scikit-learn • NumPy • Pandas
+PyTorch • TensorFlow • OpenCV • YOLOv8 • Hugging Face • LangChain • LangGraph • Scikit-learn • NLP • Transformers • NumPy • Pandas • Matplotlib
 
 ### Data Engineering
 

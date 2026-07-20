@@ -35,7 +35,7 @@ PyTorch • TensorFlow • OpenCV • YOLOv8 • Hugging Face • LangChain • 
 
 ### Data Engineering
 
-ETL Pipelines • Web Scraping • BeautifulSoup • REST APIs • Data Validation
+ETL Pipelines • Web Scraping • BeautifulSoup • REST APIs • Data Validation • Data Integration • JSON Processing
 
 ### DevOps
 
